@@ -2,7 +2,7 @@
 I'm a junior fullstack web dev specializing in HTML/CSS and JavaScript. 
 
 I'm currently learning SQL in Snowflake, and am a beginner at Power BI Dashboards.
-
+![](https://github.com/pinkx-xlink/pinkx-xlink/blob/84f62f0d7dcefd7d23f826eb1f85864f3e357617/pusheen-on-computer.gif)
 <!--
 **pinkx-xlink/pinkx-xlink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
