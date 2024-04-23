@@ -2,6 +2,11 @@
 I'm a junior fullstack web dev specializing in HTML/CSS and JavaScript. 
 
 I'm currently learning SQL in Snowflake, and am a beginner at Power BI Dashboards.
+<style>
+    * {
+        background-color: pink;
+    }
+</style>
 <!--
 **pinkx-xlink/pinkx-xlink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
