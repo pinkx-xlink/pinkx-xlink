@@ -8,7 +8,7 @@ In search of an entry level web development role where I'll be able to apply my 
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/pinkx-xlink/count.svg" />
 </p>
 <!--
 **pinkx-xlink/pinkx-xlink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
