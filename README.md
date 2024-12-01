@@ -5,6 +5,11 @@ I'm currently learning SQL (using Snowflake database) and becoming more proficie
 I'm looking to collaborate on open source projects! 
 In search of an entry level web development role where I'll be able to apply my current skillset while gaining hands-on experience as part of a team. 
 ![](https://github.com/pinkx-xlink/pinkx-xlink/blob/84f62f0d7dcefd7d23f826eb1f85864f3e357617/pusheen-on-computer.gif)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
 <!--
 **pinkx-xlink/pinkx-xlink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
