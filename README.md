@@ -1,8 +1,16 @@
 ### Hi, I'm Shaiyan 👋
-About me:
-I'm a full-stack web dev specializing in HTML/CSS, React, JavaScript, and SQL. I LOVE learning! 
+I'm a full-stack web developer.
+My Skills:
+- HTML/CSS
+- Tailwind CSS
+- React
+- JavaScript
+- SQL
+- Node.js
+- WordPress
+- PHP
+  
 I'm looking to collaborate on open-source projects! 
-When I'm not coding, you can find me reading, drawing, writing, crocheting, sewing, petting cats, or playing guitar. 
 
 <!--
 **pinkx-xlink/pinkx-xlink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
